@@ -13,5 +13,7 @@ public class cals2
 		short second_num = num.nextShort();
 		
 		System.out.println("FIRST NUMBER IS "+first_num+" & SECOND NUMBER IS "+second_num);
+		
+		System.out.println("BYE !!!");
 	}
 }
